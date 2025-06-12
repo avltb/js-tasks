@@ -1,6 +1,6 @@
 function listTopCompanies(){
     const companies = ["Google", "Apple", "Microsoft", "Facebook", "Spotify", "LinkedIn", "Samsung", "PayPal", "Yandex", "Sony"];
-    for (let i = 0; i < companies.length; i++){
+    for (let i = 0; i < 10; i++){
       let position = i + 1;
       let suffix;
   
